@@ -1,0 +1,9 @@
+*.lck
+*.bck
+*bak
+*-cache.lib
+gerbers/*
+_autosave*
+_saved*
+*-backups
+fp-info-cache

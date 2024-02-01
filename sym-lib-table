@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "iotta_v6")(type "KiCad")(uri "${KIPRJMOD}/../iotta-kicad-libs/iotta_v6.kicad_sym")(options "")(descr ""))
+)
