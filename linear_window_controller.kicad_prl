@@ -1,31 +1,31 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 2,
     "active_layer_preset": "",
-    "auto_track_width": true,
+    "auto_track_width": false,
     "hidden_netclasses": [],
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
-      "images": 0.4699999988079071,
+      "images": 0.44999998807907104,
       "pads": 0.9200000166893005,
       "tracks": 1.0,
       "vias": 0.800000011920929,
-      "zones": 0.699999988079071
+      "zones": 1.0
     },
     "selection_filter": {
-      "dimensions": true,
-      "footprints": true,
-      "graphics": true,
-      "keepouts": true,
-      "lockedItems": true,
-      "otherItems": true,
-      "pads": true,
+      "dimensions": false,
+      "footprints": false,
+      "graphics": false,
+      "keepouts": false,
+      "lockedItems": false,
+      "otherItems": false,
+      "pads": false,
       "text": true,
-      "tracks": true,
+      "tracks": false,
       "vias": true,
-      "zones": true
+      "zones": false
     },
     "visible_items": [
       0,
@@ -33,6 +33,7 @@
       2,
       3,
       4,
+      5,
       8,
       9,
       10,
@@ -41,6 +42,8 @@
       13,
       15,
       16,
+      17,
+      18,
       19,
       20,
       21,
